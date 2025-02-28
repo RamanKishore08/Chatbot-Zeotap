@@ -66,3 +66,5 @@ npm run dev
 ## 🎯 Usage
 
 Once the frontend and backend are running, open the web browser and start interacting with the chatbot.(Since it is deployed with less RAM in onrender so the Response will be slow(30-40 seconds).
+
+## Live: https://zeotapchatbot.vercel.app/
